@@ -19,6 +19,6 @@
   },
   
   "require": {
-    "wpFlow/Core":"*"
+    "wpFlow/Core": "*"
   }
 }
